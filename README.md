@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQilil9hrc6dFFPJnlYmivpzXTQog57qVdlA&usqp=CAU" style="width: 100%; display: block; margin: 0 auto;" alt="Banner Image">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQHNmdm2emIiTt9oXKLPxN9WLRR9HxRfyt-w&usqp=CAU" style="width: 100%; display: block; margin: 0 auto;" alt="Banner Image">
 <h1 align="center">Hi 👋, I'm Baozar Zakariyyah</h1>
 <h3 align="center">A Computer Engineer, Data Analyst, and Content Creator on a transformative Adventure to Personal Development</h3>
 <img align="right" alt="coding" width="400" src="https://iconscout.com/lottie/data-analysis-processing-4209908">
