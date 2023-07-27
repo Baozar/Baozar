@@ -1,5 +1,5 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4CrrbxmVvuAfNsHsJBD1ie7sa1uwPq3Qa1MYnSooGcrAWKVyH7ApDA7f_WeZzDGZHg&usqp=CAU)](https://baozarzakariyyah.com)
-<h1 align="center">Hi 👋, I'm Baozar</h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQilil9hrc6dFFPJnlYmivpzXTQog57qVdlA&usqp=CAU" style="width: 100%; display: block; margin: 0 auto;" alt="Banner Image">
+<h1 align="center">Hi 👋, I'm Baozar Zakariyyah</h1>
 <h3 align="center">A Computer Engineer, Data Analyst, and Content Creator on a transformative Adventure to Personal Development</h3>
 <img align="right" alt="coding" width="400" src="https://iconscout.com/lottie/data-analysis-processing-4209908">
 
