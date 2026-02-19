@@ -3,9 +3,8 @@
 <h3 align="center">A Computer Engineer, Data Analyst, and Content Creator on a transformative Adventure to Personal Development</h3>
 <img align="right" alt="coding" width="400" src="https://iconscout.com/lottie/data-analysis-processing-4209908">
 
-##-----------------------------------------------------------------------------------------
 
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Baozar
 
 [![GitHub followers](https://img.shields.io/github/followers/baozar?style=social)](https://github.com/baozar)
 ![Profile Views](https://komarev.com/ghpvc/?username=baozar&color=blue)
@@ -17,7 +16,7 @@
 - 💻 Based in **[Istanbul, Türkiye]**
 - 💼 Currently unemployed... 
 
-## Connect with me ☕ :
+## Connect with me on LinkedIn ☕ :
 
 <a href="https://www.linkedin.com/in/baozar-zakariyyah/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -32,7 +31,6 @@
 
 ## Experience :
 
-- **[Job Title]** at [Company] (Date - Present)
 - **Junior Analyst** at Turkish Airlines (2024 Nov - 2025 Oct)
 - **Product Manager** at Borda Tech (2024 Jul - 2024 Sep)
 - **Undergrdaute Researcher** at TUSAŞ (Turkish Aerospace) (2023 Sep - 2023 Oct)
@@ -51,26 +49,26 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baozar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-##-----------------------------------------------------------------------------------------
 
+## More About Me
 
-- 🔭 I’m currently working on [building my skills in Advanced Data Analytics](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
+- 🔭 I’m currently working on [building my skills in Preventive Maintenance Analytics with AI] through my MSc at YTÜ
 
-- 🌱 I’m currently learning **Statistics for Machine Learning & AI**
+- 🌱 Also learning **Fundamentals of LLMS** & **Prompt Analysis**
 
-- 👯 I’m looking to collaborate on [my personal project which is about empowering the younger generation using tech](https://baozarzakariyyah.com/)
+- 👯 I’m looking to collaborate on [my personal project which is about empowering high-potential African Turkish Graduates & professionals through a year-long immersive program in Turkish enterprises for hands-on technical training development and investment collaboration](https://baozarzakariyyah.com/)
 
-- 🤝 I’m looking for help with **Learning Adobe Premiere Pro :)**
+- 🤝 I’m looking for help with **Editing my videos - For YouTube** If you are good with Premier Pro or Wondershare Filmora, and are open to work, please hit me up
 
 - 📝 I regularly write articles on [baozarzakariyyah.com/blog](baozarzakariyyah.com/blog)
 
-- 💬 Ask me about **Data Science, Python, and Table Tennis**
+- 💬 Ask me about **Industry 4.0 , Industrial Transformation, Ethical AI, Study Abroad opportunities and Table Tennis**
 
 - 📫 How to reach me **baozar@baozarzakariyyah.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/baozar-zakariyyah/](https://www.linkedin.com/in/baozar-zakariyyah/)
 
-- ⚡ Fun fact **I think I like people**
+- ⚡ Fun fact **I think I am in love with Helvacı Ali hahaha :)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
