@@ -13,6 +13,7 @@
 
 - 🎓 **Computer Engineering Graduate** from Hacettepe University
 - **YouTuber** (20k+)
+- **AI-oriented Product Development Enthusiast**
 - 💻 Based in **[Istanbul, Türkiye]**
 - 💼 Currently unemployed... 
 
@@ -52,11 +53,11 @@
 
 ## More About Me
 
-- 🔭 I’m currently working on [building my skills in Preventive Maintenance Analytics with AI] through my MSc at YTÜ
+- 🔭 I’m currently working on building my skills in Preventive Maintenance Analytics with AI through my MSc at YTÜ
 
 - 🌱 Also learning **Fundamentals of LLMS** & **Prompt Analysis**
 
-- 👯 I’m looking to collaborate on [my personal project which is about empowering high-potential African Turkish Graduates & professionals through a year-long immersive program in Turkish enterprises for hands-on technical training development and investment collaboration](https://baozarzakariyyah.com/)
+- 👯 I’m looking to collaborate on [my personal project with Zikr Gifts](https://baozarzakariyyah.com/zikr-gifts)
 
 - 🤝 I’m looking for help with **Editing my videos - For YouTube** If you are good with Premier Pro or Wondershare Filmora, and are open to work, please hit me up
 
