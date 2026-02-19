@@ -9,10 +9,10 @@
 ## About Me:
 
 - 🎓 **Computer Engineering Graduate** from Hacettepe University
-- **YouTuber** (20k+)
-- **AI-oriented Product Development Enthusiast**
+- ▶️ **YouTuber** (20k+)
+- 🚀 **AI-oriented Product Development Enthusiast**
 - 💻 Based in **[Istanbul, Türkiye]**
-- 💼 Currently unemployed... 
+- 💼 Currently unemployed... but very soon
 
 ## Connect with me on LinkedIn ☕ :
 
