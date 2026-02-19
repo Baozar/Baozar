@@ -8,13 +8,13 @@
 
 ## About Me:
 
-- 🎓 **Computer Engineering Graduate** from Hacettepe University (MSc - YTÜ)
+- 🎓 **BSc. Computer Engineering** @ Hacettepe University / MSc @ **YTÜ** in view
 - 🧠 Heavily studying about **Industry 4.0** , **Predictive Maintenance**, and **Ethical AI**
 - ▶️ **YouTuber** (20k+)
 - 🚀 **AI-oriented Product Development Enthusiast**
 - 💻 Based in **Istanbul, Türkiye**
 - 🤖 You may ask me about **Scholarship & Internship** opportunities
-- 💼 Currently unemployed... but very soon inşallah
+- 💼 Currently unemployed... but **very soon** inşallah
 
 ## Connect with me on LinkedIn ☕ :
 
