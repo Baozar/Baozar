@@ -33,7 +33,7 @@
 
 - **Junior Analyst** at Turkish Airlines (2024 Nov - 2025 Oct)
 - **Product Manager** at Borda Tech (2024 Jul - 2024 Sep)
-- **Undergrdaute Researcher** at TUSAŞ (Turkish Aerospace) (2023 Sep - 2023 Oct)
+- **Undergrduate Research** in Collaboration with TUSAŞ (Turkish Aerospace) & Hacettepe (2023 Sep - 2024 Jun)
 - **Technical Writer** at Robit Tech (2022 Aug - 2022 Sep)
 
 ## Projects 🧑‍💻 :
