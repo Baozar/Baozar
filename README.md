@@ -9,7 +9,7 @@
 ## About Me:
 
 - 🎓 **BSc. Computer Engineering** @ Hacettepe University / MSc @ **YTÜ** in view
-- 🧠 Heavily studying about **Industry 4.0** , **Predictive Maintenance**, and **Ethical AI**
+- 🧠 Currently learning about **Industry 4.0** , **Predictive Maintenance**, and **Ethical AI**
 - ▶️ **YouTuber** (20k+)
 - 🚀 **AI-oriented Product Development Enthusiast**
 - 💻 Based in **Istanbul, Türkiye**
