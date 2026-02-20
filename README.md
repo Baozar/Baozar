@@ -1,7 +1,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQHNmdm2emIiTt9oXKLPxN9WLRR9HxRfyt-w&usqp=CAU" style="width: 100%; display: block; margin: 0 auto;" alt="Banner Image">
 
 
-# Hi 👋, I'm Baozar
+# Hi 👋, I'm Baozar. I loveeee turning data insights into products :)
 
 [![GitHub followers](https://img.shields.io/github/followers/baozar?style=social)](https://github.com/baozar)
 ![Profile Views](https://komarev.com/ghpvc/?username=baozar&color=blue)
