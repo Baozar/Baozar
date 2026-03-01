@@ -60,8 +60,7 @@
 
 - 🤝 I’m looking for help with **Editing my videos - For YouTube** If you are good with Premier Pro or Wondershare Filmora, and are open to work, please hit me up
 
-- 📝 I regularly write articles on [baozarzakariyyah.com/blog](baozarzakariyyah.com/blog)
-
+- 📝 I regularly write articles on https://baozarzakariyyah.com/blog/
 - 💬 Ask me about **Industry 4.0 , Industrial Transformation, Ethical AI, Study Abroad opportunities and Table Tennis**
 
 - 📫 How to reach me **baozar@baozarzakariyyah.com**
